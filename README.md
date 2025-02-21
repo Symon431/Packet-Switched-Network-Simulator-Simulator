@@ -4,8 +4,7 @@ This program simulates a packet switching system, where packets arrive at differ
 ### Features  
 ✅ Queue-based packet routing  
 ✅ Handles out-of-order packet delivery  
-✅ Implements variable network delays 
-
+✅ Implements variable network delays. 
 ###How it works
 1️⃣ Packet Generation - Packets are created with random arrival times, transmission times, and priorities.
 2️⃣ Queueing System - Packets enter a queue and wait for an available switcher.
